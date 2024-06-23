@@ -5,7 +5,7 @@
     <div class="bg-gray-600 rounded-lg p-8 md:p-16 lg:p-24 w-full max-w-3xl mx-4">
       <div class="content text-center text-white">
         <!-- blog page title-->
-        <h1 class="text-3xl font-bold mb-4">Welcome to Nuxt 3 with jQuery Ripples</h1>
+        <h1 class="text-3xl font-bold mb-4">Ripple Effect</h1>
         <!-- blog page content-->
         <span />
       </div>
