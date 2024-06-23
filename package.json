@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "nuxt": "^3.12.1",
+    "ripple.js": "^0.1.0",
+    "ripples": "^0.0.1",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.3",
+    "vue-twentytwenty": "^1.0.0-1"
+  },
+  "devDependencies": {
+    "@nuxt/image": "latest",
+    "@nuxtjs/tailwindcss": "latest"
+  }
+}
