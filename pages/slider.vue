@@ -2,8 +2,8 @@
     <div class="min-h-screen bg-gray-900 text-white flex flex-col items-center">
         <!-- Header Section -->
         <header class="w-full py-12 text-center bg-gray-800 shadow-lg">
-            <h1 class="text-5xl font-extrabold">SIS Improvements</h1>
-            <p class="text-2xl mt-4 font-light">Improvements for SAP Integration Suite iFlow editor</p>
+            <h1 class="text-5xl font-extrabold">Before/After slider</h1>
+            <p class="text-2xl mt-4 font-light">Customizable Nuxt 3 component</p>
         </header>
 
         <!-- Before/After Component Section -->
